@@ -50,5 +50,4 @@ curl.exe -s -u user:pwd http://localhost:8090/authenticate
 
 - This is a basic example for learning JWT.
 - The credentials and secret key are hardcoded for demonstration.
-- Token is generated using HS256 algorithm.
-
+- Token is generated using HS256 algorithm. 
