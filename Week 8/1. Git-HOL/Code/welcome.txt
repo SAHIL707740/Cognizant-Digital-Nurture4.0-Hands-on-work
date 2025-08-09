@@ -1,0 +1,5 @@
+Welcome to Git Hands-on Lab!
+Location: Week 8 / 1.Git-HOL / code
+Completed steps:
+- Created welcome.txt
+- Staged, committed and pushed to remote
